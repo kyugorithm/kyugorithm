@@ -5,5 +5,4 @@ Should you have any inquiries or wish to socialize, feel free to reach out to me
 I serve as Senior ML Engineer at Coupang Play. I specialize in generative models (GANs, Diffusion, and LLMs partially), with a focus on creating interactive virtual humans. My work bridges the gap between research and engineering, effectively transforming concepts into practical applications. Additionally, I have experience in deploying generative Vision AI services on cloud platforms, such as AWS.
 
 
-![Kyugorithms's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=kyugorithm&show_icons=true&bg_color=00000000)
-
+![Kyugorithm's GitHub stats](https://github-readme-stats.vercel.app/api?count_private=true&username=kyugorithm&show_icons=true&bg_color=00000000)
