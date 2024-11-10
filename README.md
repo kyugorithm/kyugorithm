@@ -1,3 +1,5 @@
+![Kyugorithm's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyugorithm&count_private=true)
+
 ### 🚀 Hello, World!
 Should you have any inquiries or wish to socialize, feel free to reach out to me via email at **lkc880425@gmail.com**, connect with me on [LinkedIn](https://www.linkedin.com/in/kyuchul-lee-3a919611a).
 
